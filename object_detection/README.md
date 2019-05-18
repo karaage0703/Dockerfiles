@@ -1,4 +1,4 @@
-# dl4us
+# object_detection
 Docker image for TensorFlow Object Detection API
 
 # Usage
