@@ -19,3 +19,5 @@ USER root
 RUN sudo apt-get update
 RUN sudo apt-get -y install graphviz
 RUN sudo rm -rf /var/lib/apt/lists/*
+
+USER $NB_UID
